@@ -1,8 +1,6 @@
-## Hi there 👋
+# Hey There 👋 I Like Coding In Python 🐍 And Making Backend Projects
 
-<p style="text-align: center;">
 ![giphy](https://user-images.githubusercontent.com/24875795/165923669-17b6bae3-4754-4591-852c-2f3e5d7d4f7a.gif)
-</p>
 
 <!--
 **vladiiii/vladiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
